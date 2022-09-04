@@ -6,21 +6,21 @@ Udacity - Object Oriented Programming in Java: Final Project
 -------------------------
 U-1
 ---
-Rocket cost = $100 Million
-Rocket weight = 10 Tonnes
-Max weight (with cargo) = 18 Tonnes
-Chance of launch explosion = 5% * (cargo carried / cargo limit)
-Chance of landing crash = 1% * (cargo carried / cargo limit)
+- Rocket cost = $100 Million
+- Rocket weight = 10 Tonnes
+- Max weight (with cargo) = 18 Tonnes
+- Chance of launch explosion = 5% * (cargo carried / cargo limit)
+- Chance of landing crash = 1% * (cargo carried / cargo limit)
 
 U-2
 ---
-Rocket cost = $120 Million
-Rocket weight = 18 Tonnes
-Max weight (with cargo) = 29 Tonnes
-Chance of launch explosion = 4% * (cargo carried / cargo limit)
-Chance of landing crash = 8% * (cargo carried / cargo limit)
-Here's what you need to do:
+- Rocket cost = $120 Million
+- Rocket weight = 18 Tonnes
+- Max weight (with cargo) = 29 Tonnes
+- Chance of launch explosion = 4% * (cargo carried / cargo limit)
+- Chance of landing crash = 8% * (cargo carried / cargo limit)
 
+Here's what you need to do:
 
 ----------------------
 | PART 1: The design |
